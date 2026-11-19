@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChiTiêu</string>
+    <string name="widget_description">Thêm chi tiêu nhanh</string>
+    <string name="widget_add_expense">+ Chi</string>
+</resources>
